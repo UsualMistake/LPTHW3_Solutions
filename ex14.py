@@ -3,7 +3,7 @@ from sys import argv
 
 # create three variables, two take in argv
 # the store store '> ' 
-script, user_name = argv
+script, user_name, age = argv
 prompt = '> '
 
 # print and prompt user three times
@@ -23,4 +23,5 @@ print(f"""
 Alright, so you said {likes} about liking me.
 You live in {lives}. Not sure what that is.
 And you have a {computer} computer. Nice.
+You are {age} years old.
 """)
