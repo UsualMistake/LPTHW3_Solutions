@@ -1,0 +1,19 @@
+# Function definition checklist for python
+# Study Drill exercise 18 LPTHW3
+
+1. Defining a funciton 
+
+start with def 
+function naming: only characters and underscore_
+parenthesis after function name
+arguments separated by commas
+no duplicate argument names
+colon after parenthesis :
+indent code inside function
+dident to "end" function
+
+2. calling a function
+
+write fuction name
+parenthesis after function name
+arguments inside parenthesis (if needed)
